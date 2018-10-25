@@ -29,5 +29,4 @@ class DemoController extends AbstractController
             'result'=> $result
         ]);
     }
-
 }
